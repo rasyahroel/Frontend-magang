@@ -1,7 +1,5 @@
 <?php include 'header.php' ?>
-<div class="container-fluid d-flex">
-    <?php include 'sidebar.php' ?>
-    <div class="col-7 ms-5">
+<div class="container-fluid ps-5">
         <div>
             <h1 class="my-5">Judul <span class="text-yellow">Service</span></h1>
             <div>
@@ -23,14 +21,13 @@
                 <div class="mt-1 d-flex">
                     <h5 class="col-2">Deskripsi</h5><h5>:</h5>
                 </div>
-                <div class="pb-5 mb-5">
+                <div class="">
                     <p>Berisi semua deskripsi service yang di lakukan secara detal dan menyeluruh</p>
                 </div>
             </div>
-            <div class="pt-5 my-5 d-grid justify-content-md-end">
+            <div class="pt-5 my-5 me-5 d-grid justify-content-md-end">
                 <a href="http://localhost/MA_BO/list_service.php"><button class="btn btn-link bg-yellowalt text-dark" ><strong>Back</strong></button></a>
             </div>
         </div>
-    </div>
 </div>
 <?php include 'footer.php' ?>

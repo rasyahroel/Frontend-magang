@@ -1,10 +1,9 @@
 <?php include 'header.php' ?>
-<div class="container-fluid d-flex" background="image/bg(1).jpg" style="background-size: contain; background-repeat: round;">
-    <?php include 'sidebar.php' ?>
-    <div class="mb-5 col-8 ms-5 justify-content">
+<div class="container-fluid">
+    <div class="m-5 justify-content">
         <div class="my-5 row">
-            <h1 class="col-md-9 col-sm-12">List <span class="text-yellow">Service</span></h1>
-            <div class="dropdown col-md-3 col-sm-12">
+            <h1 class="col-md-10 col-sm-12">List <span class="text-yellow">Service</span></h1>
+            <div class="dropdown col-md-2 col-sm-12">
                 <button class="btn bg-dark text-light dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
                     Filter Tampilan
                 </button>

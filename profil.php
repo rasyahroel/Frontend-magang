@@ -1,7 +1,5 @@
 <?php include 'header.php' ?>
-<div class="container-fluid d-flex">
-    <?php include 'sidebar.php' ?>
-    <div class="col-md-9 col-sm-10">
+<div class="container-fluid">
        <div class="d-flex">
          <h1 class="m-5 col-8">Profil</h1>
        </div>
@@ -28,10 +26,9 @@
             <div class="d-flex">
                <p class="col-3">Jumlah service</p><p>: Jumlah service yang sudah di lakukan user baik masih progres atau yang complete</p>
             </div>
-            <div class="pt-5 my-5 justify-content-md-end d-grid">
-               <a class="text-dark" href="http://localhost/MA_BO/edit_profil.php"><button type="submit" class="btn bg-yellowalt" >Edit</button></a>
+            <div class="pt-5 my-5 me-5 d-grid justify-content-md-end">
+                <a href="http://localhost/MA_BO/edit_profil.php"><button class="btn btn-link bg-yellowalt text-dark" ><strong>Edit</strong></button></a>
             </div>
         </div>
-    </div>
 </div>
 <?php include 'footer.php' ?>

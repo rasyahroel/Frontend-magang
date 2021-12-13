@@ -23,7 +23,7 @@
 <body background="image/bg.jpg" class="backgroundalt">
     <div class="container-fluid">
         <div class="py-5 my-5">
-            <div class="py-5 my-5 col-md-4 col-sm-12 position-absolute end-0">
+            <form class="py-5 my-5 col-md-4 col-sm-12 position-absolute end-0">
                 <div class="mt-5 col-md-8 col-sm-12">
                     <h2 class="text-center">FORGOT PASSWORD</h2>
                 </div>
@@ -38,7 +38,7 @@
                         <a class="text-center btn rounded-alt" href="http://localhost/MA_BO/login.php">Kirim</a>
                     </div>
                 </div>
-            </div>
+            </form>
         </div>
     </div>
 

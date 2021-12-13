@@ -1,7 +1,5 @@
 <?php include 'header.php' ?>
-<div class="d-flex">
-    <?php include 'sidebar.php' ?>
-    <div class="col-9">
+    <div class="container-fluid">
         <h1 class="m-5">Edit <span class="text-yellow">Profile</span></h1>
         <div class="ms-5">
             <div class="d-flex col-12">
@@ -41,5 +39,4 @@
             </div>
         </div>
     </div>
-</div>
 <?php include 'footer.php' ?>

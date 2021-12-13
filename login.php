@@ -18,7 +18,7 @@
 <body background="image/bg.jpg" class="backgroundalt">
     <div class="container-fluid">
         <div class="py-5 my-5">
-            <div class="py-5 my-5 col-md-4 col-sm-12 position-absolute end-0">
+            <form class="py-5 my-5 col-md-4 col-sm-12 position-absolute end-0">
                 <div class="mt-5 col-md-8 col-sm-12">
                     <h2 class="text-center">USER LOGIN</h2>
                 </div>
@@ -36,7 +36,7 @@
                         <p><a  href="http://localhost/MA_BO/forgot_password.php" >Forgot password</a></p>
                     </div>
                     </div>
-            </div>
+            </form>
         </div>
     </div>
 </body>

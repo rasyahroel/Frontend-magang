@@ -22,7 +22,7 @@
     <div class="py-3 container-fluid bg-darkalt d-flex">
             <ul class="p-0 m-0 list d-flex col-md-10 col-sm-6">
               <li class="nav-item"><a href="http://localhost/MA_BO/profil_admin.php" class="nav-link text-light"><strong>PROFIL</strong></a></li>
-              <li class="nav-item"><a href="http://localhost/MA_BO/Read_Member.php" class="nav-link text-light"><strong>MEMBER</strong></a></li>
+              <li class="nav-item"><a href="http://localhost/MA_BO/Read_Member.php" class="nav-link text-light"><strong>DATA MEMBER</strong></a></li>
           </ul>
           <ul class="p-0 m-0 list d-flex col-md-2 col-sm-6">
               <li class="nav-item nav-link text-light">Hi, Nama user</li>
